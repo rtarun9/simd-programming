@@ -13,6 +13,8 @@ typedef uint16_t u16;
 typedef uint32_t u32;
 typedef uint64_t u64;
 
+typedef int32_t b32;
+
 #define internal static
 #define global_variable static
 #define local_persist static
