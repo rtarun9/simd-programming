@@ -3,3 +3,6 @@
 *.obj
 *.pdb
 *.rdi
+*.ilk
+*.vs
+
